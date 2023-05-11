@@ -1,5 +1,5 @@
 ### Notice
-This code is from the great guide from Michael Herman as below.
+This code is from the great guide by Michael Herman as below.
 https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx/
 
 
